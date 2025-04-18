@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  🚀 Industrial Engineer | 💻 Web Developer | 🎯 Tech Enthusiast
+  🚀 Industrial Engineer | 🎯 Teknoloji Tutkunu
 </p>
 
 <p align="center">
