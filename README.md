@@ -35,5 +35,5 @@
 <h2 align="center" style="color:#ff69b4;">🌱 Motto</h2>
 
 <p align="center">
-  <em>"The best way to predict the future is to create it." — Peter Drucker</em>
+  <em>"Sade düşün, doğru çöz" </em>
 </p>
