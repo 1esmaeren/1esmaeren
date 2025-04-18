@@ -1,12 +1,10 @@
 <h1 align="center" style="color:#ff69b4;">Esma Eren 💫 </h1>
 ---
 <p align="center">
-  <em>"Sade düşün, doğru çöz" </em>
-</p>
-
-
-<p align="center">
   🚀 Industrial Engineer | 🎯  Tech Enthusiast
+</p>
+<p align="center">
+  <em>"Sade düşün, doğru çöz" </em>
 </p>
 
 <p align="center">
@@ -34,8 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=aura" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=aura" width="48%"/>
 </p>
-
----
-
-<h2 align="center" style="color:#ff69b4;">🌱 Motto</h2>
-
