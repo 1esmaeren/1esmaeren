@@ -29,3 +29,10 @@ Currently working on PHP-based projects and improving my backend development ski
 
 ---
 > "The best way to predict the future is to create it." — Peter Drucker
+---
+
+## 📊 GitHub Stats
+
+![Esma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=tokyonight)
