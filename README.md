@@ -1,4 +1,9 @@
-<h1 align="center" style="color:#ff69b4;">Esma Eren 🪄 </h1>
+<h1 align="center" style="color:#ff69b4;">Esma Eren 🐼 </h1>
+---
+<p align="center">
+  <em>"Sade düşün, doğru çöz" </em>
+</p>
+
 
 <p align="center">
   🚀 Industrial Engineer | 💻 Web Developer | 🎯 Tech Enthusiast
@@ -34,6 +39,3 @@
 
 <h2 align="center" style="color:#ff69b4;">🌱 Motto</h2>
 
-<p align="center">
-  <em>"Sade düşün, doğru çöz" </em>
-</p>
