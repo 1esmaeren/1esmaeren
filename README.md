@@ -1,6 +1,6 @@
 # Hi there, I'm Esma! 👋
 
-🚀 Industrial Engineer | IT Enthusiast | Web Developer
+🚀 Industrial Engineer | IT Enthusiast
 
 I'm passionate about building efficient, creative solutions through technology.  
 Currently working on PHP-based projects and improving my backend development skills.
@@ -25,7 +25,7 @@ Currently working on PHP-based projects and improving my backend development ski
 
 📫 **Connect with me:**  
 - 🌍 Ankara, Turkey  
-- ✉️ (İstersen e-posta ya da LinkedIn linkini buraya ekleriz!)
+- ✉️ esma_eren147@hotmail.com
 
 ---
 > "The best way to predict the future is to create it." — Peter Drucker
