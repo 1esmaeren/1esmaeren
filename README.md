@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff69b4;">Hi there, I'm Esma Eren! 👋</h1>
+<h1 align="center" style="color:#ff69b4;">Esma Eren 🪄 </h1>
 
 <p align="center">
   🚀 Industrial Engineer | 💻 Web Developer | 🎯 Tech Enthusiast
