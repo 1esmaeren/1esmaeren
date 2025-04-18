@@ -31,14 +31,10 @@ Currently working on PHP-based projects and improving my backend development ski
 > "The best way to predict the future is to create it." — Peter Drucker
 ---
 
----
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=aura" alt="Esma's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=aura" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=midnight-purple" alt="Esma's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=midnight-purple" alt="Top Languages" width="48%" />
 </p>
-
