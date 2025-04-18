@@ -1,44 +1,39 @@
-<h1 align="center" style="color:#ff69b4;">Hi there, I'm Esma! 👋</h1>
-
-🚀 Industrial Engineer | IT Enthusiast
-
-I'm passionate about building efficient, creative solutions through technology.  
-Currently working on PHP-based projects and improving my backend development skills.
-
----
-
-## 💻 Tech Stack
-- Languages: PHP, HTML, CSS, SQL
-- Frameworks & Tools: Bootstrap, MySQL, Git
-
----
-
-## 🛠️ Ongoing Projects
-- Daily task tracking system with PHP (Günlük İşler)
-- English irregular verbs learning tool (IrregularVerb)
-
----
-
-## 📚 Currently Learning
-- Advanced PHP concepts
-- English language skills for tech communication
-
----
-
-<h2 align="center" style="color:#ff69b4;">📊 GitHub Stats</h2>
+<h1 align="center" style="color:#ff69b4;">Hi there, I'm Esma Eren! 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=aura" alt="Esma's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=aura" alt="Top Languages" width="48%" />
+  🚀 Industrial Engineer | 💻 Web Developer | 🎯 Tech Enthusiast
+</p>
+
+<p align="center">
+  <a href="mailto:seninmailin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/1esmaeren"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seninlinkedinin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌱 Motto
-> "The best way to predict the future is to create it." — Peter Drucker
+<h2 align="center" style="color:#ff69b4;">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Connect with me
-- 🌍 Location: Ankara, Turkey
-- ✉️ E-mail: esma_eren147@hotmail.com
+<h2 align="center" style="color:#ff69b4;">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=aura" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=aura" width="48%"/>
+</p>
+
+---
+
+<h2 align="center" style="color:#ff69b4;">🌱 Motto</h2>
+
+<p align="center">
+  <em>"The best way to predict the future is to create it." — Peter Drucker</em>
+</p>
