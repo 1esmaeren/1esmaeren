@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#ff69b4;">Hi there, I'm Esma! 👋</h1>
 
-🚀 Industrial Engineer | IT Enthusiast | Web Developer
+🚀 Industrial Engineer | IT Enthusiast
 
 I'm passionate about building efficient, creative solutions through technology.  
 Currently working on PHP-based projects and improving my backend development skills.
