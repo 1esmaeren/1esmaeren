@@ -29,6 +29,6 @@
 <h2 align="center" style="color:#ff69b4;">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&theme=aura" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&theme=aura" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="48%"/>
 </p>
