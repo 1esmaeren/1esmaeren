@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff69b4;">Esma Eren 💫 </h1>
 ---
 <p align="center">
-  🚀 Industrial Engineer | 🎯  Tech Enthusiast
+  🚀 Industrial Engineer 
 </p>
 <p align="center">
   <em>"Sade düşün, doğru çöz" </em>
