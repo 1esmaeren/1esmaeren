@@ -25,9 +25,9 @@
 <h2 align="center" style="color:#ff69b4;">🙋‍♀️ Hakkımda</h2>
 
 <p align="center">
-  Üretim süreçlerini daha verimli hale getirmeye odaklanan<br/>
-  bir endüstri mühendisiyim.<br/>
-  Süreç modelleme, simülasyon ve veri odaklı karar almaya ilgi duyuyorum.
+  Endüstri mühendisiyim, bilgi işlem alanında çalışıyorum.<br/>
+  Mesleğimin getirdiği analitik bakış açısıyla süreç modelleme,<br/>
+  simülasyon ve veri odaklı çözümlere ilgi duyuyorum.
 </p>
 
 ---
