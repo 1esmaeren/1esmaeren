@@ -25,7 +25,7 @@
 <h2 align="center" style="color:#ff69b4;">🙋‍♀️ Hakkımda</h2>
 
 <p align="center">
-  Endüstri mühendisiyim, bilgi işlem alanında çalışıyorum.<br/>
+  Endüstri mühendisiyim, bilgi işlem de çalışıyorum.<br/>
   Mesleğimin getirdiği analitik bakış açısıyla süreç modelleme,<br/>
   simülasyon ve veri odaklı çözümlere ilgi duyuyorum.
 </p>
