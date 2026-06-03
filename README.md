@@ -60,11 +60,11 @@
         <img src="https://img.shields.io/badge/Tarayıcıda%20Çalışır-4CAF50?style=flat-square"/>
       </p>
       <p>
-        <a href="https://1esmaeren.github.io/vsm-studio">
+        <a href="https://1esmaeren.github.io/simulasyon">
           <img src="https://img.shields.io/badge/🔗 Canlı Demo-ff69b4?style=for-the-badge"/>
         </a>
         &nbsp;
-        <a href="https://github.com/1esmaeren/vsm-studio">
+        <a href="https://github.com/1esmaeren/simulasyon">
           <img src="https://img.shields.io/badge/Kaynak Kod-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
