@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center" style="color:#ff69b4;">💻 Tech Stack</h2>
+<h2 align="center" style="color:#ff69b4;">💻 Kullandığım Teknolojiler</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -74,20 +74,20 @@
 
 ---
 
-<h2 align="center" style="color:#ff69b4;">📈 GitHub Stats</h2>
+<h2 align="center" style="color:#ff69b4;">📈 GitHub İstatistikleri</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&locale=tr" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&locale=tr" width="48%"/>
 </p>
 
-<h2 align="center" style="color:#ff69b4;">🔥 GitHub Streak</h2>
+<h2 align="center" style="color:#ff69b4;">🔥 Seri</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1esmaeren&theme=dark&background=0D1117&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1esmaeren&theme=dark&background=0D1117&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&locale=tr"/>
 </p>
 
-<h2 align="center" style="color:#ff69b4;">🌸 Contributions</h2>
+<h2 align="center" style="color:#ff69b4;">🌸 Katkılar</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1esmaeren&bg_color=0d1117&color=ffffff&line=ff69b4&point=ffb6c1&area=true&hide_border=true"/>
