@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff69b4;">Esma Eren 💫</h1>
 
 <p align="center">
-  🏭 Endüstri Mühendisi &nbsp;|&nbsp; 💻 Yazılım Geliştirici
+  🏭 Endüstri Mühendisi
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 <h2 align="center" style="color:#ff69b4;">🙋‍♀️ Hakkımda</h2>
 
 <p align="center">
-  Üretim süreçlerini daha verimli hale getirmek için hem saha deneyimini<br/>
-  hem de yazılım geliştirmeyi bir arada kullanan bir endüstri mühendisiyim.<br/>
+  Üretim süreçlerini daha verimli hale getirmeye odaklanan<br/>
+  bir endüstri mühendisiyim.<br/>
   Süreç modelleme, simülasyon ve veri odaklı karar almaya ilgi duyuyorum.
 </p>
 
