@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,c084fc&height=160&section=header&text=esma%20eren&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=endüstri%20mühendisi%20·%20bilgi%20işlem&descSize=14&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,c084fc&height=160&section=header&text=Esma%20Eren&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Endüstri%20Mühendisi%20·%20Bilgi%20İşlem&descSize=14&descAlignY=62&animation=fadeIn"/>
 
 </div>
 
