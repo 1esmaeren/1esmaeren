@@ -1,94 +1,263 @@
-<h1 align="center" style="color:#ff69b4;">Esma Eren 💫</h1>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Esma Eren</title>
 
-<p align="center">
-  🏭 Endüstri Mühendisi
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:linear-gradient(135deg,#0f172a,#1e293b);
+    color:white;
+    overflow-x:hidden;
+}
+
+.hero{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:30px;
+}
+
+.hero-content{
+    max-width:900px;
+}
+
+.hero h1{
+    font-size:4rem;
+    color:#ff6bb5;
+    margin-bottom:10px;
+}
+
+.hero h2{
+    font-weight:300;
+    margin-bottom:20px;
+    color:#d8d8d8;
+}
+
+.hero p{
+    color:#cfcfcf;
+    line-height:1.8;
+    font-size:1.1rem;
+}
+
+.btns{
+    margin-top:30px;
+}
+
+.btn{
+    display:inline-block;
+    text-decoration:none;
+    padding:14px 30px;
+    border-radius:50px;
+    margin:10px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.btn-primary{
+    background:#ff6bb5;
+    color:white;
+}
+
+.btn-primary:hover{
+    transform:translateY(-4px);
+}
+
+.btn-secondary{
+    border:1px solid #ff6bb5;
+    color:#ff6bb5;
+}
+
+.btn-secondary:hover{
+    background:#ff6bb5;
+    color:white;
+}
+
+.section{
+    max-width:1200px;
+    margin:auto;
+    padding:80px 20px;
+}
+
+.section-title{
+    text-align:center;
+    font-size:2.5rem;
+    color:#ff6bb5;
+    margin-bottom:50px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:25px;
+}
+
+.card{
+    background:rgba(255,255,255,.05);
+    backdrop-filter:blur(15px);
+    border:1px solid rgba(255,255,255,.1);
+    border-radius:25px;
+    padding:30px;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+}
+
+.card h3{
+    color:#ff6bb5;
+    margin-bottom:15px;
+}
+
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    justify-content:center;
+}
+
+.skill{
+    padding:10px 18px;
+    border-radius:30px;
+    background:#ff6bb520;
+    border:1px solid #ff6bb5;
+}
+
+.project{
+    text-align:center;
+    padding:40px;
+    background:rgba(255,255,255,.05);
+    border-radius:25px;
+}
+
+.project h3{
+    color:#ff6bb5;
+    margin-bottom:15px;
+}
+
+.project a{
+    text-decoration:none;
+    color:white;
+    background:#ff6bb5;
+    padding:12px 25px;
+    border-radius:30px;
+    display:inline-block;
+    margin-top:20px;
+}
+
+footer{
+    text-align:center;
+    padding:40px;
+    color:#aaa;
+}
+</style>
+</head>
+
+<body>
+
+<section class="hero">
+<div class="hero-content">
+<h1>Esma Eren ✨</h1>
+<h2>Endüstri Mühendisi • IT Uzmanı</h2>
+
+<p>
+Süreç geliştirme, simülasyon, veri analizi ve yazılım geliştirme
+alanlarında çalışıyorum. Endüstri mühendisliği bakış açısını
+bilgi teknolojileriyle birleştirerek verimli çözümler üretmeyi
+hedefliyorum.
 </p>
 
-<p align="center">
-  <em>"Sade düşün, doğru çöz."</em>
+<div class="btns">
+<a href="mailto:esma_eren147@hotmail.com" class="btn btn-primary">İletişim</a>
+<a href="https://github.com/1esmaeren" class="btn btn-secondary">GitHub</a>
+</div>
+
+</div>
+</section>
+
+<section class="section">
+
+<h2 class="section-title">Hakkımda</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>🏭 Endüstri Mühendisliği</h3>
+<p>
+Süreç analizi, iş etüdü, verimlilik artırma ve operasyon yönetimi.
+</p>
+</div>
+
+<div class="card">
+<h3>💻 Bilgi İşlem</h3>
+<p>
+Kullanıcı desteği, sistem yönetimi ve iş uygulamaları geliştirme.
+</p>
+</div>
+
+<div class="card">
+<h3>📊 Veri ve Simülasyon</h3>
+<p>
+Üretim süreçlerini modelleme ve karar destek sistemleri geliştirme.
+</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="section">
+
+<h2 class="section-title">Teknolojiler</h2>
+
+<div class="skills">
+<div class="skill">HTML5</div>
+<div class="skill">CSS3</div>
+<div class="skill">JavaScript</div>
+<div class="skill">PHP</div>
+<div class="skill">MySQL</div>
+<div class="skill">SQL</div>
+</div>
+
+</section>
+
+<section class="section">
+
+<h2 class="section-title">Öne Çıkan Proje</h2>
+
+<div class="project">
+
+<h3>🏭 VSM Studio</h3>
+
+<p>
+Üretim hattı modelleme ve simülasyon platformu.
+Darboğazları ve kayıpları gerçek zamanlı analiz etmeyi sağlar.
 </p>
 
-<p align="center">
-  <a href="mailto:esma_eren147@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://github.com/1esmaeren">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/esma-eren-5b2925158/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://1esmaeren.github.io/simulasyon">
+Canlı Demo
+</a>
 
----
+</div>
 
-<h2 align="center" style="color:#ff69b4;">🙋‍♀️ Hakkımda</h2>
+</section>
 
-<p align="center">
-  Endüstri mühendisiyim, bilgi işlem de çalışıyorum.<br/>
-  Mesleğimin getirdiği analitik bakış açısıyla süreç modelleme,<br/>
-  simülasyon ve veri odaklı çözümlere ilgi duyuyorum.
-</p>
+<footer>
+© 2026 Esma Eren • Tüm Hakları Saklıdır
+</footer>
 
----
-
-<h2 align="center" style="color:#ff69b4;">💻 Kullandığım Teknolojiler</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center" style="color:#ff69b4;">🚀 Öne Çıkan Proje</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="600">
-      <h3>🏭 VSM Studio — Üretim Hattı Simülatörü</h3>
-      <p>
-        Sürükle-bırak arayüzüyle üretim hattı kurun,<br/>
-        gerçek zamanlı simülasyon ile darboğazları ve kayıpları anında görün.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tarayıcıda%20Çalışır-4CAF50?style=flat-square"/>
-      </p>
-      <p>
-        <a href="https://1esmaeren.github.io/simulasyon">
-          <img src="https://img.shields.io/badge/🔗 Canlı Demo-ff69b4?style=for-the-badge"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/1esmaeren/simulasyon">
-          <img src="https://img.shields.io/badge/Kaynak Kod-000000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center" style="color:#ff69b4;">📈 GitHub İstatistikleri</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1esmaeren&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&locale=tr" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esmaeren&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&locale=tr" width="48%"/>
-</p>
-
-<h2 align="center" style="color:#ff69b4;">🔥 Seri</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1esmaeren&theme=dark&background=0D1117&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&locale=tr"/>
-</p>
-
-<h2 align="center" style="color:#ff69b4;">🌸 Katkılar</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1esmaeren&bg_color=0d1117&color=ffffff&line=ff69b4&point=ffb6c1&area=true&hide_border=true"/>
-</p>
+</body>
+</html>
